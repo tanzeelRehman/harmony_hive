@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764333835141",
+    "project_id": "harmonyhive-9b01d",
+    "storage_bucket": "harmonyhive-9b01d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764333835141:android:e0947811dca6490657baec",
+        "android_client_info": {
+          "package_name": "com.mycompany.harmonyhive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6_w1-3hem-LYtdsXDv7qOHr0CM4oblSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

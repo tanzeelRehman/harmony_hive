@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCtm3d1Jvvg-6M_E5AFOqXLN1qv5d-ObJ0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>764333835141</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.harmonyhive</string>
+	<key>PROJECT_ID</key>
+	<string>harmonyhive-9b01d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>harmonyhive-9b01d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:764333835141:ios:b2a862155f544bbf57baec</string>
+</dict>
+</plist>
