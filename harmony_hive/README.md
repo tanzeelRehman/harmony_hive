@@ -1,5 +1,6 @@
 # Harmony Hive
 A music application where you can change the beat of a song playing.
+
 ![Harmony Hive](https://github.com/tanzeelRehman/harmony_hive/blob/main/harmony_hive/harmony_hive/Harmony.jpg)
 
 # Demo Video
@@ -25,15 +26,14 @@ flutter run
 
 # Technologies 
 - Flutterflow and Flutter for frontend
-- Node js for backend
-- Firebase for push notifications
+- Firebase for backend and storage
+
 
 # API Information
-Used OpenWeatherMap API to show Kashmir's current time and temperature
-API endpoints are removed because database access is restricted
+Removed firebase keys because music files are restricted
 
 # License
-- This project is licensed under the MIT License - see the [LICENSE](https://github.com/tanzeelRehman/visualizing_kashmir/blob/main/LICENSE.md) file for details
+- This project is licensed under the MIT License - see the [LICENSE](https://github.com/tanzeelRehman/harmony_hive/blob/main/harmony_hive/LICENSE.md) file for details
 
 # Contact
 Tanzeel Ur Rehman - [tanzeel.rehman481@gmail.com](tanzeel.rehman481@gmail.com) - [Linkedin](https://www.linkedin.com/in/tanzeel-rehman-dev)
